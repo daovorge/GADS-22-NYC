@@ -14,6 +14,8 @@
   * Posted solutions to the Numpy Lab
   * Check in at the start of the lesson
   * For future iPython submissions please put your name into the title of the iPython notebook e.g. MarkHoltPythonLab.ipynb
+  * Meetups
+  * Additional Resources
 - Git, Command Line, Directory Tree and iPython Notebook - Demo & Questions
 - Exploratory Data Analysis Slides - Mark
 - Exploratory Data Analysis Code Walkthrough - All code along
@@ -23,5 +25,11 @@
   * Check in
   * Exit Ticket
 - Homework -Unofficial not for marking. Solution set will be available- Finish the Pandas Notebook that was started in class
+ 
+###Additional Resources
+- Meetups
+  * Data Driven NYC http://www.meetup.com/NYC-Data-Business-Meetup/events/222842684/
+  * The New York Meetup Python Group http://www.meetup.com/nycpython/
+  * NYC Data Science http://www.meetup.com/NYC-Data-Science/
 
 
