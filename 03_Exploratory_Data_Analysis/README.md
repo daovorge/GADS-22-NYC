@@ -4,7 +4,10 @@
 ###Objectives for this class:
 
 - To git pull without having local work over-written
-- To code along with the instructional team an EDA of the IMDB dataset
+- List actions that might be required to clean and pre-process data - aka exploratory data analysis
+- Define the goal of EDA as being to produce a training set
+- Undertake a code walk-through of an EDA of the IMdB database
+- Relate the process of EDA to the larger goal of producing a term project
 - Start the Essential Pandas Lab, and complete at home if necessary
 
 ###Class Agenda
