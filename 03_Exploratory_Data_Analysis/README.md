@@ -4,7 +4,6 @@
 ###Objectives for this class:
 
 - To git pull without having local work over-written
-- 
 - To code along with the instructional team an EDA of the IMDB dataset
 - Start the Essential Pandas Lab, and complete at home if necessary
 
