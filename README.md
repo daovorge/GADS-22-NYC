@@ -15,8 +15,12 @@ Mark is available by appointment - send an email: mrgh@me.com
 | Wed  5:30 - 6:30 PM   | 
 | Wed 9:30 - 10:30 PM   |     
 
-
 or by appointment - send an email: sun.w.susan@gmail.com
+
+
+|  Chris - regular office hours | 
+| :------------ |
+| Sat  10.00 - 3.00 PM    | 
 
 Chris by appointment - send an email: rwc.sheehan@gmail.com
 
