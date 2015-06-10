@@ -13,7 +13,7 @@
   * Posted solutions to the Python Lab
   * Posted solutions to the Numpy Lab
   * Check in at the start of the lesson
-  * For future iPython submissions please put your name into the title of the iPython notebook e.g. MarkHoltPythonLab.ipynb
+  * For future iPython submissions please put your name into the title of the iPython notebook e.g. 'MarkHoltPythonLab.ipynb'
   * Meetups
   * Additional Resources
 - Git, Command Line, Directory Tree and iPython Notebook - Demo & Questions
