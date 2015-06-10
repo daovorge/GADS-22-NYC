@@ -58,4 +58,5 @@
 
 #### Gentle Introduction
  * If you haven’t used a command line interface like `bash`, try [The Command Line Crash Course](http://cli.learncodethehardway.org/book/). Ignore the stuff about PowerShell.
+ * At the very least look at http://cli.learncodethehardway.org/book/ex2.html
  
