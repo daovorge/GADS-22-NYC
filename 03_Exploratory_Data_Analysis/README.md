@@ -51,19 +51,11 @@
  * A gentle introduction. This is typically an in-browser interactive which assumes no prior knowledge.
  * A deeper dive. These provide much more exposition and extend to advanced topics.
 
-#### `bash`
 ##### Install
-
- * If you’re running Mac OS X, `bash` is what you have by default in `Terminal`. You should [install homebrew](http://brew.sh/#install). Then `brew install git`.
+ * If you’re running Mac OS X, `bash` is what you have by default in `Terminal`. 
  * If you’re running Windows, you should [install Git Bash](http://openhatch.org/missions/windows-setup/install-git-bash).
- * If you’re running Linux, you run `bash` or know better, and can install `git`.
+ * If you’re running Linux, you run `bash` or know better
 
-### Gentle Introduction
-
+#### Gentle Introduction
  * If you haven’t used a command line interface like `bash`, try [The Command Line Crash Course](http://cli.learncodethehardway.org/book/). Ignore the stuff about PowerShell.
- * If you haven't used `git`, [Try Git](http://try.github.io/) will teach you the basics in 15 minutes, in your browser. For a little more explanation, check out Atlassian's [Git Basics](https://www.atlassian.com/git/tutorial/git-basics) and other tutorials.
-
-### Deeper Dive
-
- * [Bash Guide for Beginners](http://writers.fultus.com/garrels/ebooks/Machtelt_Garrels_Bash_Guide_for_Beginners_2nd_Ed.pdf)
- * [Pro Git](http://git-scm.com/book)
+ 
