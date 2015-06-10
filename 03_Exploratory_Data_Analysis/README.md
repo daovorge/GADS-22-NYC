@@ -35,6 +35,9 @@
   * [The New York Meetup Python Group](http://www.meetup.com/nycpython/)
   * [NYC Data Science](http://www.meetup.com/NYC-Data-Science/)
 
+- Exploratory Data Analysis
+  * [Cheat Sheet of Exploratory Data Analysis in Python](http://www.analyticsvidhya.com/blog/2015/06/infographic-cheat-sheet-data-exploration-python/)
+
 - Data Visualization
   * [Rougier and Prace EuroSciPy Matplotlib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/) A good matplotlib tutorial
   * Blog by Nathan Yau: [FlowingData](http://flowingdata.com/), and his [Visualize This](http://book.flowingdata.com/)
