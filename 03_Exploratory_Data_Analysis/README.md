@@ -3,13 +3,10 @@
 
 ###Objectives for this class:
 
-- a
-- b
-- c
-- d
-- e
-- f
-- g
+- To git pull without having local work over-written
+- 
+- To code along with the instructional team an EDA of the IMDB dataset
+- Start the Essential Pandas Lab, and complete at home if necessary
 
 ###Class Agenda
 
@@ -20,11 +17,11 @@
   * For future iPython submission please put JUST your name in the first cell of the notebook
 - Git, Command Line, Directory Tree and iPython Notebook - Demo & Questions
 - Exploratory Data Analysis Slides - MRGH
-- Exploratory Data Analysis - All code along
-- Exploring a Data Set - Class exercise
+- Exploratory Data Analysis Code Walkthrough - All code along
+- Pandas Lab - Class exercise
 - Class close
   * Check in
   * Exit Ticket
-- Homework - Pandas Notebook
+- Homework -Unofficial not for marking. Solution set will be available- Finish the Pandas Notebook that was started in class
 
 
