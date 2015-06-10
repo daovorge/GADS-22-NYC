@@ -13,7 +13,7 @@
   * Posted solutions to the Python Lab
   * Posted solutions to the Numpy Lab
   * Check in at the start of the lesson
-  * For future iPython submission please put JUST your name in the first cell of the notebook
+  * For future iPython submissions please put your name into the title of the iPython notebook e.g. MarkHoltPythonLab.ipynb
 - Git, Command Line, Directory Tree and iPython Notebook - Demo & Questions
 - Exploratory Data Analysis Slides - MRGH
 - Exploratory Data Analysis Code Walkthrough - All code along
