@@ -28,9 +28,9 @@ Chris by appointment - send an email: rwc.sheehan@gmail.com
 | Date          | Location       | Topic                                     | Homework Set   | Homework Due |
 | :------------ |:---------------|:------------------------------------------|:---------------|--------------|
 | Wed June 3    | GA West        | Intro To Data Science                     | N/A            |              |
-| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | N/A            |              |
-| Wed June 10   | 4th Floor      | Exploratory Data Analysis                 | EDA            |              |
-| Mon June 15   |                | Gradient Descent & Linear Models          |                |EDA           |
+| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | numpy lab     |    |
+| Wed June 10   | 4th Floor      | Exploratory Data Analysis                 |               | numpy lab    |
+| Mon June 15   |                | Gradient Descent & Linear Models          |                |             |
 | Wed June 17   |                | Gradient Descent in Practice              |                |
 | Mon June 22   |                | Linear Models - Analytic Solution         |                |
 | Wed June 24   |                | Linear Models for Non-Linear Problems                       |                |
