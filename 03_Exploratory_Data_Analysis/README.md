@@ -32,4 +32,8 @@
   * The New York Meetup Python Group http://www.meetup.com/nycpython/
   * NYC Data Science http://www.meetup.com/NYC-Data-Science/
 
+- Data Visualization
+  * [Rougier and Prace EuroSciPy Matplotlib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/) *Amazing!*
+  * Excellent Blog by Nathan Yau: [FlowingData](http://flowingdata.com/), and book [Visualize This](http://book.flowingdata.com/)
+  * [A Rabbit Hole of Visualizations](http://dadaviz.com/i/893)
 
