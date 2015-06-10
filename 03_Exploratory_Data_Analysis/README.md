@@ -28,12 +28,12 @@
  
 ###Additional Resources
 - Meetups
-  * Data Driven NYC http://www.meetup.com/NYC-Data-Business-Meetup/events/222842684/
-  * The New York Meetup Python Group http://www.meetup.com/nycpython/
-  * NYC Data Science http://www.meetup.com/NYC-Data-Science/
+  * [Data Driven NYC](http://www.meetup.com/NYC-Data-Business-Meetup/events/222842684/)
+  * [The New York Meetup Python Group](http://www.meetup.com/nycpython/)
+  * [NYC Data Science](http://www.meetup.com/NYC-Data-Science/)
 
 - Data Visualization
-  * [Rougier and Prace EuroSciPy Matplotlib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/) *Amazing!*
-  * Excellent Blog by Nathan Yau: [FlowingData](http://flowingdata.com/), and book [Visualize This](http://book.flowingdata.com/)
+  * [Rougier and Prace EuroSciPy Matplotlib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/) A good matplotlib tutorial
+  * Blog by Nathan Yau: [FlowingData](http://flowingdata.com/), and his [Visualize This](http://book.flowingdata.com/)
   * [A Rabbit Hole of Visualizations](http://dadaviz.com/i/893)
 
