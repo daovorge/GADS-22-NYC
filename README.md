@@ -20,7 +20,7 @@ or by appointment - send an email: sun.w.susan@gmail.com
 
 |  Chris - regular office hours | 
 | :------------ |
-| Sat  10.00 - 3.00 PM    | 
+| Sat  10.00 - 1.00 PM    | 
 
 Chris by appointment - send an email: rwc.sheehan@gmail.com
 
