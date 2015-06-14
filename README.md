@@ -28,16 +28,16 @@ Chris by appointment - send an email: rwc.sheehan@gmail.com
 | Date          | Location       | Topic                                     | Homework Set   | Homework Due |
 | :------------ |:---------------|:------------------------------------------|:---------------|--------------|
 | Wed June 3    | GA West        | Intro To Data Science                     | N/A            |              |
-| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | numpy lab     |    |
-| Wed June 10   | 4th Floor      | Exploratory Data Analysis                 |               | numpy lab    |
-| Mon June 15   |                | Gradient Descent & Linear Models          |                |             |
-| Wed June 17   |                | Gradient Descent in Practice              |                |
-| Mon June 22   |                | Linear Models - Analytic Solution         |                |
-| Wed June 24   |                | Linear Models for Non-Linear Problems                       |                |
-| Mon June 29   |                | Logistic Regression                            |                |
-| Wed July 1    |                | Regularization                     |                |
-| Mon July 6    |                | Unsupervised Learning       |                |
-| Wed July 8    |                | Dimensionality Reduction       |                |
+| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | numpy lab      |              |
+| Wed June 10   | 4th Floor      | Exploratory Data Analysis                 |                | numpy lab    |
+| Mon June 15   |                | Gradient Descent & Linear Models          |                |              |
+| Wed June 17   |                | Linear Models & Linear Regression         |                |              |
+| Mon June 22   |                | Linear Models for Non-Linear Problems     |                |              |
+| Wed June 24   |                | Model Selection & Reglarization           |                |              |
+| Mon June 29   |                | Logistic Regression                       |                |              |
+| Wed July 1    |                | Dimensionality Reduction                  |                |              |
+| Mon July 6    |                | Unsupervised Learning                     |                |              |
+| Wed July 8    |                | A Project: End-to-end                     |                |              |
 | Mon July 13   |                | Lightening Project Talks                    |                |
 | Wed July 15   |                | Naive Bayes                    |                |
 | Mon July 20   |                | A/B Testing                           |                |
