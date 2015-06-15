@@ -27,29 +27,29 @@ Chris by appointment - send an email: rwc.sheehan@gmail.com
 #Syllabus
 | Date          | Location       | Topic                                     | Homework Set   | Homework Due |
 | :------------ |:---------------|:------------------------------------------|:---------------|--------------|
-| Wed June 3    | GA West        | Intro To Data Science                     | N/A            |              |
-| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | numpy lab      |              |
-| Wed June 10   | 4th Floor      | Exploratory Data Analysis                 |                | numpy lab    |
-| Mon June 15   |                | Gradient Descent & Linear Models          |                |              |
-| Wed June 17   |                | Linear Models & Linear Regression         |                |              |
-| Mon June 22   |                | Linear Models for Non-Linear Problems     |                |              |
-| Wed June 24   |                | Model Selection & Reglarization           |                |              |
-| Mon June 29   |                | Logistic Regression                       |                |              |
-| Wed July 1    |                | Dimensionality Reduction                  |                |              |
-| Mon July 6    |                | Unsupervised Learning                     |                |              |
-| Wed July 8    |                | A Project: End-to-end                     |                |              |
-| Mon July 13   |                | Lightening Project Talks                    |                |
-| Wed July 15   |                | Naive Bayes                    |                |
-| Mon July 20   |                | A/B Testing                           |                |
-| Wed July 22   |                | NLP          |                |
-| Mon July 27   |                |  Recommendation Systems                |                |
-| Wed July 29   |                |  Guest Speakers       |                |
-| Mon August 3  |                | Support Vector Machines    |                |
-| Wed August 5  |                | Databases                ?     |                |
-| Mon August 10 |                | Spark                    ?     |                |
-| Wed August 12 |                | Review                         |                |
-| Mon August 17 |                | Project Presentation Workshop  |                |
-| Wed August 19 |                | Project Presentations          |                |
+| 1. Wed June 3    | GA West        | Intro To Data Science                     | N/A            |              |
+| 2. Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | numpy lab      |              |
+| 3. Wed June 10   | 4th Floor      | Exploratory Data Analysis                 |                | numpy lab    |
+| 4. Mon June 15   |                | Gradient Descent & Linear Models          |                |              |
+| 5. Wed June 17   |                | Linear Models & Linear Regression         |                |              |
+| 6. Mon June 22   |                | Linear Models for Non-Linear Problems     |                |              |
+| 7. Wed June 24   |                | Model Selection & Reglarization           |                |              |
+| 8. Mon June 29   |                | Logistic Regression                       |                |              |
+| 9. Wed July 1    |                | Dimensionality Reduction                  |                |              |
+| 10. Mon July 6    |                | Unsupervised Learning                     |                |              |
+| 11. Wed July 8    |                | A Project: End-to-end                     |                |              |
+| 12. Mon July 13   |                | Lightening Project Talks                    |                |
+| 13. Wed July 15   |                | Naive Bayes                    |                |
+| 14. Mon July 20   |                | A/B Testing                           |                |
+| 15. Wed July 22   |                | NLP          |                |
+| 16. Mon July 27   |                |  Recommendation Systems                |                |
+| 17. Wed July 29   |                |  Guest Speakers       |                |
+| 18. Mon August 3  |                | Support Vector Machines    |                |
+| 19. Wed August 5  |                | Databases                ?     |                |
+| 20. Mon August 10 |                | Spark                    ?     |                |
+| 21. Wed August 12 |                | Review                         |                |
+| 22. Mon August 17 |                | Project Presentation Workshop  |                |
+| 23. Wed August 19 |                | Project Presentations          |                |
 
 
 #Getting Help
