@@ -39,7 +39,7 @@ Class Location: GA West 10E. 21st St, 4th Floor
 | 8. Mon June 29   | Logistic Regression                       |                |              |
 | 9. Wed July 1    | Dimensionality Reduction                  |                |              |
 | 10. Mon July 6   | Unsupervised Learning                     |                |              |
-| 11. Wed July 8   | A Project: End-to-end                     |                |              |
+| 11. Wed July 8   | Review 1                                  |                |              |
 | 12. Mon July 13  | Lightening Project Talks                    |                |
 | 13. Wed July 15  | Naive Bayes                    |                |
 | 14. Mon July 20  | A/B Testing                           |                |
