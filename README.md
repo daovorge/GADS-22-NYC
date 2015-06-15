@@ -40,18 +40,18 @@ Class Location: GA West 10E. 21st St, 4th Floor
 | 9. Wed July 1    | Dimensionality Reduction                  |                |              |
 | 10. Mon July 6   | Unsupervised Learning                     |                |              |
 | 11. Wed July 8   | Review 1                                  |                |              |
-| 12. Mon July 13  | Lightening Project Talks                    |                |
-| 13. Wed July 15  | Naive Bayes                    |                |
-| 14. Mon July 20  | A/B Testing                           |                |
-| 15. Wed July 22  | NLP          |                |
-| 16. Mon July 27  |  Recommendation Systems                |                |
-| 17. Wed July 29  |  Guest Speakers       |                |
-| 18. Mon August 3 | Support Vector Machines    |                |
-| 19. Wed August 5 | Databases                ?     |                |
-| 20. Mon August 10| Spark                    ?     |                |
-| 21. Wed August 12| Review                         |                |
-| 22. Mon August 17| Project Presentation Workshop  |                |
-| 23. Wed August 19| Project Presentations          |                |
+| 12. Mon July 13  | Lightening Project Talks                  |                |
+| 13. Wed July 15  | Naive Bayes                               |                |
+| 14. Mon July 20  | A/B Testing                               |                |
+| 15. Wed July 22  | NLP                                       |                |
+| 16. Mon July 27  |  Recommendation Systems                   |                |
+| 17. Wed July 29  |  Guest Speakers                           |                |
+| 18. Mon August 3 | Support Vector Machines                   |                |
+| 19. Wed August 5 | Databases                ?                |                |
+| 20. Mon August 10| Spark                    ?                |                |
+| 21. Wed August 12| Final Review                              |                |
+| 22. Mon August 17| Project Presentation Workshop             |                |
+| 23. Wed August 19| Project Presentations                     |                |
 
 #Getting Help
 
