@@ -35,7 +35,7 @@ Class Location: GA West 10E. 21st St, 4th Floor
 | 4. Mon June 15   | Gradient Descent & Linear Models          |                |              |
 | 5. Wed June 17   | Linear Models & Linear Regression         |                |              |
 | 6. Mon June 22   | Linear Models for Non-Linear Problems     |                |              |
-| 7. Wed June 24   | Feature & Model Selection, Reglarization  |                |              |
+| 7. Wed June 24   | Feature & Model Selection, Regularization |                |              |
 | 8. Mon June 29   | Logistic Regression                       |                |              |
 | 9. Wed July 1    | Dimensionality Reduction                  |                |              |
 | 10. Mon July 6   | Unsupervised Learning                     |                |              |
