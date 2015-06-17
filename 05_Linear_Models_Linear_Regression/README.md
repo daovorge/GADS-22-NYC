@@ -1,5 +1,5 @@
 #Lesson 5 Linear Models and Linear Regression
-###June 15th 2015
+###June 17th 2015
 
 ###Objectives for this class:
  * To define the second algorithm that can be used to find the linear model parameters - the normal equations
