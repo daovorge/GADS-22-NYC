@@ -3,9 +3,11 @@
 
 ###Objectives for this class:
  * To define non-linear features in the context of our current regression algorithms
- * To return to the concept of multivariate linear regression and look at non-linear multivariate regression
- * To list out the key Python commands for construction of non-linear features
- * To work through the iPython notebooks demonstrating the key python commands, and multivariate regression
+ * To return to the solution of multivariate linear regression and look at non-linear multivariate regression
+ * To identify 2 key concepts in building linear models - Model Selection & Feature Selection
+ * To define the need for validation with respect to Model Selection
+ * To work through an iPython notebook to idenitfy and utilize the key commands for validation & non-linear MV regression
+ * To work through an iPython notebook to illustrate multivariate non-linear regression
  * To code along and develop an iPython notebook using the sklearn tools to implement multi-variate non-linear regression.
  
 ###Class Agenda
@@ -13,9 +15,11 @@
   * Check in 
   * Review objectives
  - Deriving Non-linear features - Core concepts - Slides - Mark
- - Deriving Non-linear features in Python - iPython notebooks - Mark
- - Polynomial Regression in 1 and 2-D - iPython notebooks - Mark
- - Africa Soil Challenge - Coding exercise - All
+ - Model Selection & Feature Selection - Core concepts - Slides - Mark
+ - Validation, Cross-Validation - Core concepts - Slides - Mark
+ - Deriving Non-linear features in Python - iPython notebook - Mark & Class
+ - Polynomial Non-linear Regression in 1 and 2-D - iPython notebook - Mark & Class
+ - Africa Soil Challenge - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
