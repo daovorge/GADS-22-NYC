@@ -22,10 +22,9 @@
   * Wrap up
 
 ###Additional Resources
-* [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info)
+* [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
 * [Why every statistician should know about cross-validation](http://robjhyndman.com/hyndsight/crossvalidation/)
 * [Multiple Regression using Statsmodels](http://www.datarobot.com/blog/multiple-regression-using-statsmodels/)
-* Read [The Gospel According to Tufte](http://www-personal.umich.edu/~jpboyd/eng403_chap2_tuftegospel.pdf), which is the best freely available summary of Tufte that I've been able to find.
- * Watch this presentation about [looking at your data](http://www.youtube.com/watch?v=coNDCIMH8bk).
- * If you're interested in thinking about interactive/visualizations as a genre you might check out [Narrative Visualization: Telling Stories with Data
-](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf).
+* Read [The Gospel According to Tufte](http://www-personal.umich.edu/~jpboyd/eng403_chap2_tuftegospel.pdf), which is a good freely available summary of Tufte.
+* Watch this presentation about [looking at your data](http://www.youtube.com/watch?v=coNDCIMH8bk).
+* If you're interested in thinking about interactive/visualizations as a genre you might check out [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf).
