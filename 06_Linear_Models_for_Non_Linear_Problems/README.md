@@ -4,7 +4,7 @@
 ###Objectives for this class:
  * To define non-linear features in the context of our current regression algorithms
  * To return to the concept of multivariate linear regression and look at non-linear multivariate regression
- * To list out the key Python commands for construction non-linear features
+ * To list out the key Python commands for construction of non-linear features
  * To work through the iPython notebooks demonstrating the key python commands, and multivariate regression
  * To code along and develop an iPython notebook using the sklearn tools to implement multi-variate non-linear regression.
  
