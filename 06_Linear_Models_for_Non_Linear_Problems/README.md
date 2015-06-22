@@ -25,3 +25,7 @@
 * [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info)
 * [Why every statistician should know about cross-validation](http://robjhyndman.com/hyndsight/crossvalidation/)
 * [Multiple Regression using Statsmodels](http://www.datarobot.com/blog/multiple-regression-using-statsmodels/)
+* Read [The Gospel According to Tufte](http://www-personal.umich.edu/~jpboyd/eng403_chap2_tuftegospel.pdf), which is the best freely available summary of Tufte that I've been able to find.
+ * Watch this presentation about [looking at your data](http://www.youtube.com/watch?v=coNDCIMH8bk).
+ * If you're interested in thinking about interactive/visualizations as a genre you might check out [Narrative Visualization: Telling Stories with Data
+](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf).
