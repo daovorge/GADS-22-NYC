@@ -1,5 +1,5 @@
 #Lesson 6 Linear Models for Non-linear Problems
-###June 12th 2015
+###June 22th 2015
 
 ###Objectives for this class:
  * To define non-linear features in the context of our current regression algorithms
