@@ -21,4 +21,8 @@
   * Class to pause around 9.15pm for the Exit ticket
   * Wrap up
 
-
+###Additional Resources
+## Additional Resources
+* [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info)
+* [Why every statistician should know about cross-validation](http://robjhyndman.com/hyndsight/crossvalidation/)
+* [Multiple Regression using Statsmodels](http://www.datarobot.com/blog/multiple-regression-using-statsmodels/)
