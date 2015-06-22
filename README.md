@@ -46,6 +46,9 @@ Class Location: GA West 10E. 21st St, 4th Floor
 | 15. Wed July 22  | NLP                                       |                |
 | 16. Mon July 27  |  Recommendation Systems                   |                |
 | 17. Wed July 29  |  Guest Speakers                           |                |
+|                  | David Epstein, Senior Data Scientist, Socure |
+|                  | Eric Xu, Data Scientist, Outbrain |
+|                  | Rob Doherty, Data Scientist Team Lead, Outbrain |
 | 18. Mon August 3 | Support Vector Machines                   |                |
 | 19. Wed August 5 | Databases                ?                |                |
 | 20. Mon August 10| Spark                    ?                |                |
