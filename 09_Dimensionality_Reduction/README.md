@@ -1,5 +1,5 @@
 #Lesson 7 Dimensionality Reduction
-###Jult 1st 2015
+###July 1st 2015
 
 ###Objectives for this class:
  * 
