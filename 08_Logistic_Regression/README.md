@@ -1,5 +1,5 @@
-#Lesson 7 Feature Selection, Model Selection, and Regularization
-###June 24th 2015
+#Lesson 8 Logistic Regression
+###June 29th 2015
 
 ###Objectives for this class:
  * 
