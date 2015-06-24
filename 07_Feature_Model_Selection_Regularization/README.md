@@ -2,9 +2,13 @@
 ###June 24th 2015
 
 ###Objectives for this class:
- * 
+ * Continue to define and identify aspects of model selection and feature selection
+ * Define regularization, under-fitting and over-fitting (Bias and Variance)
+ * Identify ways of controlling model fit, using regularization
+ * Identify the 2 main regression algorithms that utilize regularisation in different ways
  * To work through an iPython notebook to illustrate under-fitting and over-fitting
- * To code along and develop an iPython notebook to find an optimal solution to the Africa Soil Ph problem using a brute force approach.
+ * To code along and develop an iPython notebook to find an optimal solution to the Africa Soil Ph problem using a brute force approach. Controlling over-fitting will be a feature of this exercise
+ * Set homework
  
 ###Class Agenda
  - Class Open
