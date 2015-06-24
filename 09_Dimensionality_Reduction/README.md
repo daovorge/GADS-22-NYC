@@ -1,5 +1,5 @@
-#Lesson 7 Feature Selection, Model Selection, and Regularization
-###June 24th 2015
+#Lesson 7 Dimensionality Reduction
+###Jult 1st 2015
 
 ###Objectives for this class:
  * 
