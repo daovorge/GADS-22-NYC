@@ -37,24 +37,24 @@ Class Location: GA West 10E. 21st St, 4th Floor
 | 6. Mon June 22   | Linear Models for Non-Linear Problems     |                |              |
 | 7. Wed June 24   | Feature & Model Selection, Regularization | Baseball dB    |              |
 | 8. Mon June 29   | Logistic Regression                       |                |              |
-| 9. Wed July 1    | Dimensionality Reduction                  |                | Baseball dB  |
-| 10. Mon July 6   | Unsupervised Learning                     |                |              |
-| 11. Wed July 8   | A Project: End-to-End                     |                |              |
-| 12. Mon July 13  | Lightening Project Talks                  |                |
-| 13. Wed July 15  | Naive Bayes                               |                |
-| 14. Mon July 20  | A/B Testing                               |                |
-| 15. Wed July 22  | NLP                                       |                |
-| 16. Mon July 27  |  Recommendation Systems                   |                |
-| 17. Wed July 29  |  Guest Speakers                           |                |
+| 9. Wed Jul 1     | Dimensionality Reduction                  |                | Baseball dB  |
+| 10. Mon Jul 6    | Unsupervised Learning                     |                |              |
+| 11. Wed Jul 8    | A Project: End-to-End                     |                |              |
+| 12. Mon Jul 13   | Lightening Project Talks                  |                |
+| 13. Wed Jul 15   | Naive Bayes                               |                |
+| 14. Mon Jul 20   | A/B Testing                               |                |
+| 15. Wed Jul 22   | NLP                                       |                |
+| 16. Mon Jul 27   |  Recommendation Systems                   |                |
+| 17. Wed Jul 29   |  Guest Speakers                           |                |
 |                  | David Epstein, Senior Data Scientist, Socure |
 |                  | Eric Xu, Data Scientist, Outbrain |
 |                  | Rob Doherty, Data Scientist Team Lead, Outbrain |
-| 18. Mon August 3 | Support Vector Machines                   |                |
-| 19. Wed August 5 | Databases                ?                |                |
-| 20. Mon August 10| Spark                    ?                |                |
-| 21. Wed August 12| Final Review                              |                |
-| 22. Mon August 17| Project Presentation Workshop             |                |
-| 23. Wed August 19| Project Presentations                     |                |
+| 18. Mon Aug 3    | Support Vector Machines                   |                |
+| 19. Wed Aug 5    | Databases                ?                |                |
+| 20. Mon Aug 10   | Spark                    ?                |                |
+| 21. Wed Aug 12   | Final Review                              |                |
+| 22. Mon Aug 17   | Project Presentation Workshop             |                |
+| 23. Wed Aug 19   | Project Presentations                     |                |
 
 #Getting Help
 
