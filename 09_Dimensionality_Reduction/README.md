@@ -1,4 +1,4 @@
-#Lesson 7 Dimensionality Reduction
+#Lesson 9 Dimensionality Reduction
 ###July 1st 2015
 
 ###Objectives for this class:
@@ -18,6 +18,14 @@
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
   * Wrap up
+ 
+ 
+* *Term Project*
+  Create a text file/markdown/pdf/etc. and answer the following questions:
+  1. What is your topic? Can you phrase your topic in the form of a question that you hope to answer?
+  2. What do you plan to use as your source of data? Do you have a sense for how large your dataset is? Any other characteristics you know of?
+  3. What tools or topics do you hope to learn and demonstrate by the end? In other words, what are your learning objectives?
+
 
 ###Additional Resources
 * [L1 norm vs L2 norm](http://www.chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares/)
