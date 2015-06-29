@@ -24,6 +24,7 @@
   * Wrap up
 
 ###Additional Resources
+* [Explaining the confusion matrix](http://www2.cs.uregina.ca/~dbd/cs831/notes/confusion_matrix/confusion_matrix.html)
 * Nice example of classification with sklearn from [DataRobot](http://www.datarobot.com/blog/classification-with-scikit-learn/)
 * [L1 norm vs L2 norm](http://www.chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares/)
 * Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
