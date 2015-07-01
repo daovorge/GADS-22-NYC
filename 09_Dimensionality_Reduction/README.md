@@ -25,7 +25,7 @@
   * Wrap up
  
  
-### *Term Project*
+### Term Project
   Answer the following questions:
   1. What is your topic? 
   2. Can you phrase your topic in the form of a question that you hope to answer?
