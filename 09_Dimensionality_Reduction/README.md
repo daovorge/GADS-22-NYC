@@ -2,29 +2,37 @@
 ###July 1st 2015
 
 ###Objectives for this class:
- * 
- * To work through an iPython notebook to illustrate under-fitting and over-fitting
- * To code along and develop an iPython notebook to find an optimal solution to the Africa Soil Ph problem using a brute force approach.
+ * To define what is meant by dimensionality reduction
+ * To identify Principal Components Analysis as an important algorithm
+ * To list key aspects of PCA - how it works, what it does, advantages and disadvantages
+ * To work through 2 iPython notebooks to demonstrate PCA, 1 for fundamental understanding and 1 for visualization
+ * To work through a demo iPython notebook showcasing PCA with the IRIS dataset
+ * To code along and develop code to use PCA in robust classification of the IRIS data using cross validation
  
 ###Class Agenda
  - Class Open
   * Check in 
+  * Clarification on the Challenger Notebook from last class
   * Review objectives
- - Feature Selection, Model Selection, and Regularization - Core concepts - Slides - Mark
- - Regularization in Python - iPython notebook - Mark & Class
- - Africa Soil Challenge - Coding exercise - Class
+ - Principal Components Analysis - Core concepts - Slides - Mark
+ - PCA - iPython notebook - Mark & Class
+ - PCA for visualization - Mark & Class
+ - PCA in classification - Mark & Class
+ - Robust classification using PCA - Coding exercise - Class
  - Class Close
-  * Homework
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
   * Wrap up
  
  
 * *Term Project*
-  Create a text file/markdown/pdf/etc. and answer the following questions:
-  1. What is your topic? Can you phrase your topic in the form of a question that you hope to answer?
-  2. What do you plan to use as your source of data? Do you have a sense for how large your dataset is? Any other characteristics you know of?
-  3. What tools or topics do you hope to learn and demonstrate by the end? In other words, what are your learning objectives?
+  Answer the following questions:
+  1. What is your topic? 
+  2. Can you phrase your topic in the form of a question that you hope to answer?
+  3. What do you plan to use as your source of data? 
+  4. Do you have a sense for how large your dataset is? 
+  5. Any other characteristics you know of?
+  6. What tools or topics do you hope to learn and demonstrate by the end, or in other words, what are your learning objectives?
 
 
 ###Additional Resources
