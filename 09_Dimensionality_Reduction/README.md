@@ -25,7 +25,7 @@
   * Wrap up
  
  
-* *Term Project*
+### *Term Project*
   Answer the following questions:
   1. What is your topic? 
   2. Can you phrase your topic in the form of a question that you hope to answer?
@@ -36,11 +36,13 @@
 
 
 ###Additional Resources
-* [L1 norm vs L2 norm](http://www.chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares/)
+* [How to Engineer Features and How to Get Good at It](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+* [About Feature Scaling and Normalization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+* Not directly related to course material, but pretty interesting:
+  [This Math Model Is Predicting the Ebola Outbreak with Incredible Accuracy](http://motherboard.vice.com/read/this-math-model-is-predicting-the-ebola-outbreak-with-incredible-accuracy)
 * Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
 * [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
 * Meetups
-  - [NY Open Statistical Programming](http://www.meetup.com/nyhackr/events/223130503/?a=wc1d.2_gnl&gj=wc1d.2_e&rv=wc1d.2_e&_af=event&_af_eid=223130503) Thursday 25th. Taking R Mainstream in Production Systems
 * [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
-* [Why every statistician should know about cross-validation](http://robjhyndman.com/hyndsight/crossvalidation/)
+
 
