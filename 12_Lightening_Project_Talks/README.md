@@ -1,5 +1,5 @@
-#Lesson 9 Dimensionality Reduction
-###July 1st 2015
+#Lesson 12 Lightening Project Talks
+###July 13th 2015
 
 ###Objectives for this class:
  * To define what is meant by dimensionality reduction
