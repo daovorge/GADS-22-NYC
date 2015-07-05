@@ -37,6 +37,7 @@
 
 ###Additional Resources
 * [Naive Bayes Math](http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf)
+* [Naive Bayes Test Classification](http://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)
 * [How to Engineer Features and How to Get Good at It](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 * [About Feature Scaling and Normalization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 * Not directly related to course material, but pretty interesting:
