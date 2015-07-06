@@ -32,7 +32,11 @@
   6. What tools or topics do you hope to learn and demonstrate by the end, or in other words, what are your learning objectives?
 
 
-###Additional Resources
+### Books
+* Chris Bishop's book "Pattern Recognition and Machine Learning" is one of the definitive texts. It's heavy math & heavy Bayesian
+* Machine Learning by Tom Mitchel also comes highly recommended (although I have not personally read this text)
+
+### Additional Resources
 * [How to Engineer Features and How to Get Good at It](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 * [About Feature Scaling and Normalization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 * Not directly related to course material, but pretty interesting:
