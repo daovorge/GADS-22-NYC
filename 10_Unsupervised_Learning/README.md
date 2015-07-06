@@ -35,6 +35,7 @@
 ### Books
 * Chris Bishop's book "Pattern Recognition and Machine Learning" is one of the definitive texts. It's heavy math & heavy Bayesian
 * Machine Learning by Tom Mitchel also comes highly recommended (although I have not personally read this text)
+* Cluster Analysis by Brian Everitt. Now up to the 5th edition, but is a good comprehensive look at all things to do with clustering
 
 ### Additional Resources
 * [Visualizing K-Means Clustering](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
