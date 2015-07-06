@@ -37,13 +37,15 @@
 * Machine Learning by Tom Mitchel also comes highly recommended (although I have not personally read this text)
 
 ### Additional Resources
+* [Visualizing K-Means Clustering](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+* The sklearn documentation has some neat [examples](http://scikit-learn.org/dev/auto_examples/cluster/plot_cluster_comparison.html) demonstrating characteristics of various clustering algorithms.
+* Check out the sklearn [text clustering example](http://scikit-learn.org/dev/auto_examples/text/document_clustering.html)
+* Read Cloudera's post on [scaling k-means](http://blog.cloudera.com/blog/2013/03/cloudera_ml_data_science_tools/)
+* In-depth discussion of [Finding the K in K-Means Clustering](http://datasciencelab.wordpress.com/2013/12/27/finding-the-k-in-k-means-clustering/)
 * [How to Engineer Features and How to Get Good at It](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 * [About Feature Scaling and Normalization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
-* Not directly related to course material, but pretty interesting:
-  [This Math Model Is Predicting the Ebola Outbreak with Incredible Accuracy](http://motherboard.vice.com/read/this-math-model-is-predicting-the-ebola-outbreak-with-incredible-accuracy)
 * Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
-* [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
-* Meetups
 * [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
 
+### Meetups
 
