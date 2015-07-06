@@ -2,23 +2,20 @@
 ###July 6th 2015
 
 ###Objectives for this class:
- * To define what is meant by dimensionality reduction
- * To identify Principal Components Analysis as an important algorithm
- * To list key aspects of PCA - how it works, what it does, advantages and disadvantages
- * To work through 2 iPython notebooks to demonstrate PCA, 1 for fundamental understanding and 1 for visualization
- * To work through a demo iPython notebook showcasing PCA with the IRIS dataset
- * To code along and develop code to use PCA in robust classification of the IRIS data using cross validation
+ * To define what is meant by unsupervised learning
+ * To identify K-means as an important unsupervised learning algorithm
+ * To list key aspects of K-means - how it works, what it does, advantages and disadvantages
+ * To work through 2 iPython notebooks to demonstrate K-means
+ * To code along and develop code to use K-means in visualizing the UN demographic data
  
 ###Class Agenda
  - Class Open
   * Check in 
-  * Clarification on the Challenger Notebook from last class
   * Review objectives
- - Principal Components Analysis - Core concepts - Slides - Mark
- - PCA - iPython notebook - Mark & Class
- - PCA for visualization - Mark & Class
- - PCA in classification - Mark & Class
- - Robust classification using PCA - Coding exercise - Class
+ - Unsupervised Learning and K-means Clustering - Core concepts - Slides - Mark
+ - Unsupervised Learning - iPython notebook - Mark & Class
+ - K-means Demo - Mark & Class
+ - Lab - UN country K-means - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
