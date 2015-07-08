@@ -12,7 +12,7 @@
  - Class Open
   * Check in 
   * Review objectives
- - Presentation - Citibikes, Bikespeed and Weather
+ - Presentation - Citibikes, Bikespeed and Weather - Mark
  - Citibike iPython notebooks 1 - 4 - Mark & Class
  - Group exercise - in groups of 4 or 5 discuss your term project
  - Class Close
