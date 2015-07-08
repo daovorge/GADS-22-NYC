@@ -8,10 +8,6 @@
 * Well organized ipython notebook with code and output.
 * Presentation: Exploratory data presentation related to data
 
-**Additional Materials**
-
-* List of potential mentors or field experts to contact
-
 ## Stage 2: More details
 
 * Full scope of data for project is acquired
@@ -21,7 +17,7 @@
 
 ## Stage 3: Project Draft
 
-* Github Wiki, Repository and/or Website Created
+* Github Wiki, Repository (and/or Website Created)
 * Broad set of visualizations to optimize from
 * Well crafted ipython notebook, or series of notebooks, with legible, commented code
 * Ample, clear, prose introducing the topic, the problem, the hypotheses, the stakeholders and the potential impact
@@ -30,17 +26,17 @@
 
 ## Background
 
-The final project should represent your original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should definitely talk to your instructors and classmates about them.
+The final project should represent your original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should definitely talk to your instructors and classmates about them. Consider your final project as part of your portfolio. Final projects can serve as tangible demonstrations of what you can do with the data science knowledge and tools that you acquired over the time of the course.
 
 Address a data-related problem in your professional field or in a field you're interested in. Pick a subject that you're passionate about; if you're strongly interested in the subject matter it'll be more fun for you and you'll probably produce a better project!
 
 To stimulate your thinking, there is a [compendium](DataSources.md) of some public data sources. Using public data is the most common choice. If you have access to private data, that's also an option, though you'll have to be careful about what results you can release. Competing in a Kaggle competition is a project option as well.
 
-The final project should include at least the following components:
+The final project should include some, or all of the following components:
 
  * Gather, preprocess and visualize one or more datasets. What can you learn from a high level analysis?
  * Apply appropriate techniques: regression/classification algorithms, evaluation, cross-validation, etc., and report your results.
- * Consider how you could implement what you’ve done in a production system. Where would the data live? How would it represented? How would end users access it? What parts would be streaming vs. batch?
+ * Consider how you could implement what you’ve done in a production system. Where would the data live? How would it represented? How would end users access it? 
 
 Optionally, it would be exciting to actually implement the system based on your work, and to the degree this is possible within the time frame of the course, it is certainly encouraged!
 
