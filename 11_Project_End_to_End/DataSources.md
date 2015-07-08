@@ -21,7 +21,7 @@ You may already have data that you're interested in working with. You may have a
      * [Academic Torrents](http://academictorrents.com/): A distributed network for sharing large research data sets
 
  * [Quandl](http://www.quandl.com/):  over 9,000,000 financial, economic, and social datasets
- * [Infochimps Marketplace](http://www.infochimps.com/marketplace): More than 11,000 searchable data sets
+ * [A good set of data links](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
  * [Kaggle](http://www.kaggle.com/) provides data sets with their challenges. You probably won't be able to get their private test sets, but you can get the scores that they report on leaderboards.
  * [Donors Choose](http://data.donorschoose.org/) makes quite a lot of data available which could be interesting.
  * [The Echo Nest](http://the.echonest.com/) has some interesting music data with an API that could be interesting.
