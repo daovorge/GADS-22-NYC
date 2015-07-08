@@ -34,7 +34,7 @@ The final project should represent significant original work applying data scien
 
 Address a data­-related problem in your professional field or in a field you're interested in. Pick a subject that you're passionate about; if you're strongly interested in the subject matter it'll be more fun for you and you'll probably produce a better project!
 
-To stimulate your thinking, there is a [compendium](data_sources.md) of some public data sources. Use public data is the most common choice. If you have access to private data, that's also an option, though you'll have to be careful about what results you can release. Competing in a Kaggle competition is a project option as well.
+To stimulate your thinking, there is a [compendium](DataSources.md) of some public data sources. Use public data is the most common choice. If you have access to private data, that's also an option, though you'll have to be careful about what results you can release. Competing in a Kaggle competition is a project option as well.
 
 The final project should include at least the following components:
 
