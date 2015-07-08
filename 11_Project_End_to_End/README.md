@@ -2,23 +2,19 @@
 ###July 8th 2015
 
 ###Objectives for this class:
- * To define what is meant by dimensionality reduction
- * To identify Principal Components Analysis as an important algorithm
- * To list key aspects of PCA - how it works, what it does, advantages and disadvantages
- * To work through 2 iPython notebooks to demonstrate PCA, 1 for fundamental understanding and 1 for visualization
- * To work through a demo iPython notebook showcasing PCA with the IRIS dataset
- * To code along and develop code to use PCA in robust classification of the IRIS data using cross validation
+ * To present to the class a completed data science project
+ * To deliver the final presentation from the project
+ * To identify 4 distinct parts of the project and work through a notebook on each
+ * To assign class time to discuss the term project with class mates
+ * To utilize class time to ask questions of the instructional staff about projects
  
 ###Class Agenda
  - Class Open
   * Check in 
-  * Clarification on the Challenger Notebook from last class
   * Review objectives
- - Principal Components Analysis - Core concepts - Slides - Mark
- - PCA - iPython notebook - Mark & Class
- - PCA for visualization - Mark & Class
- - PCA in classification - Mark & Class
- - Robust classification using PCA - Coding exercise - Class
+ - Presentation - Citibikes, Bikespeed and Weather
+ - Citibike iPython notebooks 1 - 4 - Mark & Class
+ - Group exercise - in groups of 4 or 5 discuss your term project
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
