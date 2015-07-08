@@ -1,5 +1,5 @@
-#Lesson 11 A Project: End-to-End
-###July 8th 2015
+#Lesson 14 A/B Testing
+###July 20th 2015
 
 ###Objectives for this class:
  * To define what is meant by dimensionality reduction
