@@ -1,47 +1,43 @@
-#Lesson 11 A Project: End-to-End
-###July 8th 2015
+# Data Sources
 
-###Objectives for this class:
- * To present to the class a completed data science project
- * To deliver the final presentation from the project
- * To identify 4 distinct parts of the project and work through a notebook on each
- * To assign class time to discuss the term project with class mates
- * To utilize class time to ask questions of the instructional staff about projects
- 
-###Class Agenda
- - Class Open
-  * Check in 
-  * Review objectives
- - Presentation - Citibikes, Bikespeed and Weather - Mark
- - Citibike iPython notebooks 1 - 4 - Mark & Class
- - Group exercise - in groups of 4 or 5 discuss your term project
- - Class Close
-  * Check in
-  * Class to pause around 9.15pm for the Exit ticket
-  * Wrap up
- 
- 
-### Term Project
-  Answer the following questions:
-  1. What is your topic? 
-  2. Can you phrase your topic in the form of a question that you hope to answer?
-  3. What do you plan to use as your source of data? 
-  4. Do you have a sense for how large your dataset is? 
-  5. Any other characteristics you know of?
-  6. What tools or topics do you hope to learn and demonstrate by the end, or in other words, what are your learning objectives?
+You may already have data that you're interested in working with. You may have an idea for scraping web data from some source, or for using data from an API such as Twitter's. There are lots of sources of data!
 
+ * There are a variety of open data catalogs from various governments and NGOs:
+     * [NYC Open Data](https://nycopendata.socrata.com/)
+     * [DC Data Catalog](http://data.dc.gov/) / [OpenDataDC](http://www.opendatadc.org/)
+     * [data.gov](https://www.data.gov/)
+     * [data.gov.uk](http://data.gov.uk/)
+     * [The US Census](http://www.census.gov/)
+     * [Data from the World Bank](http://data.worldbank.org/)
+     * [The Sunlight Foundation](http://sunlightfoundation.com/api/)
+     * [ProPublica Data Store](https://projects.propublica.org/data-store/)
+     * [Humanitarian Data Exchange](http://docs.hdx.rwlabs.org/) of the United Nations Office for the Coordination of Humanitarian Affairs
 
-### Books
-* Chris Bishop's book "Pattern Recognition and Machine Learning" is one of the definitive texts. It's heavy math & heavy Bayesian
-* Machine Learning by Tom Mitchel also comes highly recommended (although I have not personally read this text)
-* Cluster Analysis by Brian Everitt. Now up to the 5th edition, but is a good comprehensive look at all things to do with clustering
+ * Academic institutions host a variety of data set collections:
+     * The [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) makes available a variety of nice data sets.
+     * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
+     * [Inter-university Consortium for Political and Social Research](http://www.icpsr.umich.edu/)
+     * [The Pittsburgh Science of Learning Center’s DataShop](http://www.learnlab.org/technologies/datashop/)
+     * [Academic Torrents](http://academictorrents.com/): A distributed network for sharing large research data sets
 
-### Additional Resources
-* [Clustering and predicting NYC taxi activity](http://mathbabe.org/2014/10/27/guest-post-nyc-taxi-wait-times/)
-* "data-driven sports analysis" company profile [numberFire](http://www.numberfire.com/)
-* [This Guy’s Quest to Track Every Shot in the NBA Changed Basketball Forever](http://www.wired.com/2014/10/faster-higher-stronger/)
-* Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
-* [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
+ * [Quandl](http://www.quandl.com/):  over 9,000,000 financial, economic, and social datasets
+ * [Infochimps Marketplace](http://www.infochimps.com/marketplace): More than 11,000 searchable data sets
+ * [Kaggle](http://www.kaggle.com/) provides data sets with their challenges. You probably won't be able to get their private test sets, but you can get the scores that they report on leaderboards.
+ * [Donors Choose](http://data.donorschoose.org/) makes quite a lot of data available which could be interesting.
+ * [The Echo Nest](http://the.echonest.com/) has some interesting music data with an API that could be interesting.
+ * If you're interested in working with a large data set, Amazon has a variety of [public data sets](http://aws.amazon.com/publicdatasets/) that are available through their infrastructure, including Common Crawl and 1000 Genomes.
 
-### Meetups
+ * There are also various APIs out there.
+     * [twitter](https://dev.twitter.com/), of course
+     * [spotify](https://developer.spotify.com/technologies/web-api/)
+     * [last.fm](http://www.last.fm/api)
+     * [SeatGeek](http://platform.seatgeek.com/)
 
+ * More lists of data sets:
+ 	 * [RDataMining.com](http://www.rdatamining.com/resources/data)
+ 	 * [KDnuggets](http://www.kdnuggets.com/datasets/index.html)
+ 	 * [inside-R](http://www.inside-r.org/howto/finding-data-internet)
+ * [Datasets subreddit](http://www.reddit.com/r/datasets/): You can ask for help finding a specific data set, or post your own.
+ * [mldata.org](http://mldata.org/): "machine learning data set repository"
+
+This is just the tip of the iceberg; there's a lot of data out there!
