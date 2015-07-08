@@ -40,7 +40,6 @@
 * [Clustering and predicting NYC taxi activity](http://mathbabe.org/2014/10/27/guest-post-nyc-taxi-wait-times/)
 * "data-driven sports analysis" company profile [numberFire](http://www.numberfire.com/)
 * [This Guy’s Quest to Track Every Shot in the NBA Changed Basketball Forever](http://www.wired.com/2014/10/faster-higher-stronger/)
-* Project from DAT12, ["HaterNews"](http://kevinmcalear.com/thoughts/building-hater-news/)
 * Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
 * [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
 
