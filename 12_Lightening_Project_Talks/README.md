@@ -12,7 +12,7 @@
   * Check in 
   * A random order for speakers will be determined
   * Each speaker will be limited to 5 minutes to present
-  * A anonymouse feedback form will be completed by the class and the instructional team for each member
+  * A anonymous feedback form will be completed by the class and the instructional team for each member
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
