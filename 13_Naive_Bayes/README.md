@@ -45,6 +45,7 @@
 * [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 * Meetups
+
   [New York City Machine Learning Meetup this Thursday](http://www.meetup.com/NYC-Machine-Learning/)
 * [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
 
