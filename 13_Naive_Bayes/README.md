@@ -43,7 +43,9 @@
 * [Naive Bayes Test Classification](http://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)
 * Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
 * [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
+* A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 * Meetups
+  [New York City Machine Learning Meetup this Thursday](http://www.meetup.com/NYC-Machine-Learning/)
 * [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
 
 
