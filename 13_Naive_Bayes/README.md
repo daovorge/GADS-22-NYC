@@ -2,23 +2,26 @@
 ###July 15th 2015
 
 ###Objectives for this class:
- * To define what is meant by dimensionality reduction
- * To identify Principal Components Analysis as an important algorithm
- * To list key aspects of PCA - how it works, what it does, advantages and disadvantages
- * To work through 2 iPython notebooks to demonstrate PCA, 1 for fundamental understanding and 1 for visualization
- * To work through a demo iPython notebook showcasing PCA with the IRIS dataset
- * To code along and develop code to use PCA in robust classification of the IRIS data using cross validation
+ * To define the difference between a 'frequentist' and a 'Bayesian'
+ * To illustrate and define Joint, Marginal and Conditional probabilities/distributions
+ * To list and define the 2 rules of probability
+ * To deduce and define Bayes' Theorem
+ * To define Independence
+ * To calculate, using the rules of probability and Bayes Theorem, the answers to the posed probability questions
+ * To introduce and discuss Bayes Classifiers
+ * To define a Naive Bayes' Classifiers, and precisely idenitfy the reason for the 'naive' tag
+ * to define what a count vectorizer is and what an n-gram is
  
 ###Class Agenda
  - Class Open
   * Check in 
-  * Clarification on the Challenger Notebook from last class
+  * Mid-term assessment questionaire - 20 mins
   * Review objectives
- - Principal Components Analysis - Core concepts - Slides - Mark
- - PCA - iPython notebook - Mark & Class
- - PCA for visualization - Mark & Class
- - PCA in classification - Mark & Class
- - Robust classification using PCA - Coding exercise - Class
+ - Bayes - Core concepts - Slides - Mark
+ - Bernoulli Distribution - short iPython notebook - Mark & Class
+ - Multinomial Distribution - short iPython notebook - Mark & Class
+ - Bayes and Basic Probability - iPython notebook - Mark & Class
+ - LAB: Predicting movie critique text as 'rotten' or 'fresh' - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
@@ -38,10 +41,6 @@
 ###Additional Resources
 * [Naive Bayes Math](http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf)
 * [Naive Bayes Test Classification](http://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)
-* [How to Engineer Features and How to Get Good at It](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
-* [About Feature Scaling and Normalization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
-* Not directly related to course material, but pretty interesting:
-  [This Math Model Is Predicting the Ebola Outbreak with Incredible Accuracy](http://motherboard.vice.com/read/this-math-model-is-predicting-the-ebola-outbreak-with-incredible-accuracy)
 * Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
 * [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
 * Meetups
