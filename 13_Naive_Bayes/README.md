@@ -40,6 +40,7 @@
 
 ###Additional Resources
 
+* [A nice presentation about Naive Bayes](http://cis.poly.edu/~mleung/FRE7851/f07/naiveBayesianClassifier.pdf)
 * [A fun post about Bayes](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
 * [Naive Bayes Math](http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf)
 * [Naive Bayes Test Classification](http://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)
