@@ -10,7 +10,7 @@
  * To calculate, using the rules of probability and Bayes Theorem, the answers to the posed probability questions
  * To introduce and discuss Bayes Classifiers
  * To define a Naive Bayes' Classifiers, and precisely idenitfy the reason for the 'naive' tag
- * to define what a count vectorizer is and what an n-gram is
+ * To define what a count vectorizer is and what an n-gram is
  
 ###Class Agenda
  - Class Open
