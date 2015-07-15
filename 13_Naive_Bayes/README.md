@@ -22,6 +22,7 @@
  - Multinomial Distribution - short iPython notebook - Mark & Class
  - Bayes and Basic Probability - iPython notebook - Mark & Class
  - LAB: Predicting movie critique text as 'rotten' or 'fresh' - Coding exercise - Class
+ - LAB2: Predicting tweet sentiment - Coding Exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
