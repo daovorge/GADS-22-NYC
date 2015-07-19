@@ -2,23 +2,21 @@
 ###July 20th 2015
 
 ###Objectives for this class:
- * To define what is meant by dimensionality reduction
- * To identify Principal Components Analysis as an important algorithm
- * To list key aspects of PCA - how it works, what it does, advantages and disadvantages
- * To work through 2 iPython notebooks to demonstrate PCA, 1 for fundamental understanding and 1 for visualization
- * To work through a demo iPython notebook showcasing PCA with the IRIS dataset
- * To code along and develop code to use PCA in robust classification of the IRIS data using cross validation
+ * To define the Bayesian approach to A/B Testing
+ * To identify and explore the Beta Distribution
+ * To define and give an example of iterative Bayes
+ * To list the competing priorities for editors monitoring 2 instant headlines
+ * To define the Anscombe boundary, and determine that this is one solution to decision making that balances priorities
  
 ###Class Agenda
  - Class Open
   * Check in 
-  * Clarification on the Challenger Notebook from last class
   * Review objectives
- - Principal Components Analysis - Core concepts - Slides - Mark
- - PCA - iPython notebook - Mark & Class
- - PCA for visualization - Mark & Class
- - PCA in classification - Mark & Class
- - Robust classification using PCA - Coding exercise - Class
+ - Small group exercise - class quiz on Bayes Formula
+ - A/B Testing - Core concepts - Slides - Mark
+ - Beta Distribution - iPython notebook - Mark & Class
+ - Iterative Bayes - iPython notebook - Mark & Class
+ - LAB: Amazon Resellers - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
