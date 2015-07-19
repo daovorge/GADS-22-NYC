@@ -40,10 +40,10 @@ Class Location: GA West 10E. 21st St, 4th Floor
 | 11. Wed Jul 8    | A Project: End-to-End                            |                |              |
 | 12. Mon Jul 13   | Lightening Project Talks                         |                |              |
 | 13. Wed Jul 15   | Naive Bayes                                      |                |              |
-| 14. Mon Jul 20   | A/B Testing                                      |                |              |
+| 14. Mon Jul 20   | A/B Testing                                      | Grateful Dead  |              |
 | 15. Wed Jul 22   | NLP                                              |                |              |
 | 16. Mon Jul 27   | Recommendation Systems                           |                |              |
-| 17. Wed Jul 29   | Guest Speakers                                   |                |              |
+| 17. Wed Jul 29   | Guest Speakers                                   |                |Grateful Dead |
 |                  | David Epstein, Senior Data Scientist, Socure     |                |              |
 |                  | Eric Xu, Data Scientist, Outbrain                |                |              |
 |                  | Rob Doherty, Data Scientist Team Lead, Outbrain  |                |              |
