@@ -48,10 +48,10 @@
 
 * Books
 * 
-1.  Pattern Recognition and Machine Learning by Christophter Bishop
+* Pattern Recognition and Machine Learning by Christophter Bishop
+* 
+* A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 
-  A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
-  
 * Meetups
 
 * Courses
