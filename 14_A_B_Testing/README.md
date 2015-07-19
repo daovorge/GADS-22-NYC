@@ -34,6 +34,9 @@
 
 
 ###Additional Resources
+* [Bayesian Headline Testing](http://jeroenjanssens.com/2013/08/18/bayesian-headline-testing-at-visual-revenue.html)
+* Another post on [Bayesian Headline Testing](http://developers.lyst.com/data/2014/05/10/bayesian-ab-testing/)
+* Yet another post on [Bayesian Headline Testing](http://www.bayesianwitch.com/blog/2014/bayesian_ab_test.html)
 * [A nice presentation about Naive Bayes](http://cis.poly.edu/~mleung/FRE7851/f07/naiveBayesianClassifier.pdf)
 * [A fun post about Bayes](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
 * [Naive Bayes Math](http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf)
