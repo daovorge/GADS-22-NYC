@@ -47,7 +47,7 @@
 * [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
 
 * Books
-
+  Pattern Recognition and Machine Learning by Christophter Bishop
   A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
   
 * Meetups
