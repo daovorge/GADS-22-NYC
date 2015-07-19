@@ -34,15 +34,19 @@
 
 
 ###Additional Resources
+* [A nice presentation about Naive Bayes](http://cis.poly.edu/~mleung/FRE7851/f07/naiveBayesianClassifier.pdf)
+* [A fun post about Bayes](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
 * [Naive Bayes Math](http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf)
 * [Naive Bayes Test Classification](http://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)
-* [How to Engineer Features and How to Get Good at It](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
-* [About Feature Scaling and Normalization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
-* Not directly related to course material, but pretty interesting:
-  [This Math Model Is Predicting the Ebola Outbreak with Incredible Accuracy](http://motherboard.vice.com/read/this-math-model-is-predicting-the-ebola-outbreak-with-incredible-accuracy)
+ 
 * Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
 * [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
-* Meetups
 * [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
 
+* Books
 
+  A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
+  
+* Meetups
+
+* Courses
