@@ -54,6 +54,5 @@
  
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 
-* Meetups
+####Meetups
 
-* Courses
