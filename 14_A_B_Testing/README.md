@@ -48,7 +48,7 @@
 * [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
 * [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
 
-* Books
+####Books
 
 * Pattern Recognition and Machine Learning by Christophter Bishop
  
