@@ -15,7 +15,8 @@
  - Small group exercise - class quiz on Bayes Formula
  - A/B Testing - Core concepts - Slides - Mark
  - Beta Distribution - iPython notebook - Mark & Class
- - Iterative Bayes - iPython notebook - Mark & Class
+ - Iterative Bayes, Coin Toss Example - iPython notebook - Mark & Class
+ - Instant Headline Testing - iPython notebook - Mark & Class
  - LAB: Amazon Resellers - Coding exercise - Class
  - Class Close
   * Check in
