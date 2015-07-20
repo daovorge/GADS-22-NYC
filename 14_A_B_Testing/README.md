@@ -35,6 +35,8 @@
 
 
 ###Additional Resources
+* [Likelihood and probability](https://www.youtube.com/watch?v=sm60vapz2jQ)
+* [An online course in Bayes](https://www.youtube.com/watch?v=U1HbB0ATZ_A&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm)
 * [Bayesian Headline Testing Post No. 1](http://jeroenjanssens.com/2013/08/18/bayesian-headline-testing-at-visual-revenue.html)
 * [Bayesian Headline Testing Post No. 2](http://developers.lyst.com/data/2014/05/10/bayesian-ab-testing/)
 * [Bayesian Headline Testing Post No. 3](http://www.bayesianwitch.com/blog/2014/bayesian_ab_test.html)
