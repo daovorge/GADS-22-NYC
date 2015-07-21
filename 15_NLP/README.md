@@ -1,25 +1,24 @@
-#Lesson 14 A/B Testing
-###July 20th 2015
+#Lesson 15 Natural Language Processing
+###July 22th 2015
 
 ###Objectives for this class:
- * To define the Bayesian approach to A/B Testing
- * To identify and explore the Beta Distribution
- * To define and give an example of iterative Bayes
- * To list the competing priorities for editors monitoring 2 instant headlines
- * To define the Anscombe boundary, and determine that this is one solution to decision making that balances priorities
+ * To define and describe what Natural Language Processing (NLP) is
+ * To conclude that NLP is a hard problem
+ * To list and explain common techniques used in working with text
+ * To define and explain the concept of Document Simiarity
+ * To define and explain the concept of Latent Dirichlet Allocation
  
 ###Class Agenda
  - Class Open
   * Check in 
   * Review objectives
- - Small group exercise - class quiz on Bayes Formula
- - A/B Testing - Core concepts - Slides - Mark
- - Beta Distribution - iPython notebook - Mark & Class
- - Iterative Bayes - iPython notebook - Mark & Class
- - LAB: Amazon Resellers - Coding exercise - Class
+ - NLP - Core concepts - Slides - Mark
+ -  - iPython notebook - Mark & Class
+ -  - iPython notebook - Mark & Class
+ - LAB:  - Coding exercise - Class
  - Class Close
   * Check in
-  * Class to pause around 9.15pm for the Exit ticket
+  * Class to pause around 9.25pm for the Exit ticket
   * Wrap up
  
  
