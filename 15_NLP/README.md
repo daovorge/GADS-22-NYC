@@ -14,7 +14,7 @@
   * Review objectives
  - NLP - Core concepts - Slides - Mark
  - NLTK Library - demonstrating simple usage - iPython notebook - Mark & Class
- -  - iPython notebook - Mark & Class
+ - Document Similarity - iPython notebook - Mark & Class
  - LAB:  - Coding exercise - Class
  - Class Close
   * Check in
