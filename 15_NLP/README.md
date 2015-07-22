@@ -38,14 +38,12 @@
 * [NLTK homepage](http://www.nltk.org/index.html)
 * [Tutorial on using NLTK](http://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk)
 * [Lecture notes on NLP](http://cs.nyu.edu/courses/spring04/G22.2591-001/lecture3.html)
+* [Information about the 20 newsgroups dataset](http://qwone.com/~jason/20Newsgroups/)
 
-
-* Books
-
+####Books
 * Pattern Recognition and Machine Learning by Christophter Bishop
- 
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 
-* Meetups
+####Meetups
 
-* Courses
+####Courses
