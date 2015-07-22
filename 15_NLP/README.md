@@ -14,7 +14,9 @@
   * Review objectives
  - NLP - Core concepts - Slides - Mark
  - NLTK Library - demonstrating simple usage - iPython notebook - Mark & Class
+ - Count Vectorization and TFIDF - iPython notebook - Mark & Class
  - Document Similarity - iPython notebook - Mark & Class
+ - Latent Dirichlet Allocation - iPython notebook - Mark & Class
  - LAB:  - Coding exercise - Class
  - Class Close
   * Check in
@@ -33,16 +35,8 @@
 
 
 ###Additional Resources
-* [Bayesian Headline Testing Post No. 1](http://jeroenjanssens.com/2013/08/18/bayesian-headline-testing-at-visual-revenue.html)
-* [Bayesian Headline Testing Post No. 2](http://developers.lyst.com/data/2014/05/10/bayesian-ab-testing/)
-* [Bayesian Headline Testing Post No. 3](http://www.bayesianwitch.com/blog/2014/bayesian_ab_test.html)
-* [A nice presentation about Naive Bayes](http://cis.poly.edu/~mleung/FRE7851/f07/naiveBayesianClassifier.pdf)
-* [A fun post about Bayes](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
-* [Naive Bayes Math](http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf)
-* [Naive Bayes Test Classification](http://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)
-* Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
-* [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
-* [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
+* [NLTK homepage](http://www.nltk.org/index.html)
+
 
 * Books
 
