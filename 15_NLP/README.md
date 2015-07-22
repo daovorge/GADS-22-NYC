@@ -35,6 +35,7 @@
 
 
 ###Additional Resources
+* [Gensim tutorial](https://radimrehurek.com/gensim/tut1.html)
 * [Cosine Similarity Exercise](http://blog.christianperone.com/?p=1589)
 * [NLTK homepage](http://www.nltk.org/index.html)
 * [Tutorial on using NLTK](http://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk)
