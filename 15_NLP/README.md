@@ -17,7 +17,7 @@
  - Count Vectorization and TFIDF - iPython notebook - Mark & Class
  - Document Similarity - iPython notebook - Mark & Class
  - Latent Dirichlet Allocation - iPython notebook - Mark & Class
- - LAB:  - Coding exercise - Class
+ - LAB: Document Classification - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.25pm for the Exit ticket
