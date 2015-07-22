@@ -35,6 +35,7 @@
 
 
 ###Additional Resources
+* [Cosine Similarity Exercise](http://blog.christianperone.com/?p=1589)
 * [NLTK homepage](http://www.nltk.org/index.html)
 * [Tutorial on using NLTK](http://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk)
 * [Lecture notes on NLP](http://cs.nyu.edu/courses/spring04/G22.2591-001/lecture3.html)
