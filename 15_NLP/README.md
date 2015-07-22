@@ -7,6 +7,7 @@
  * To list and explain common techniques used in working with text
  * To define and explain the concept of Document Simiarity
  * To define and explain the concept of Latent Dirichlet Allocation
+ * To define and implement a text classification model to classify documents into 1 of 20 classes
  
 ###Class Agenda
  - Class Open
