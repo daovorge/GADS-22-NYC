@@ -34,8 +34,7 @@
 
 
 ###Additional Resources
-* http://cis.poly.edu/~mleung/FRE7851/f07/naiveBayesianClassifier.pdf
-* http://guidetodatamining.com/guide/ch2/DataMining-ch2.pdf
+* [Excellent online resource that you can work through, python code and data available](http://guidetodatamining.com/guide/ch2/DataMining-ch2.pdf)
 * http://www.slideshare.net/erikbern/collaborative-filtering-at-spotify-16182818
 * https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml
 * http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/
@@ -47,7 +46,6 @@
 #####Books
 
 * Pattern Recognition and Machine Learning by Christophter Bishop
-
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 
 #####Meetups
