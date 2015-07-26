@@ -45,6 +45,7 @@
 
 #####Books
 
+* Doing Data Science by Cathy O'Neil & Rachel Schutt. Has a chapter of recommendation systems.
 * Pattern Recognition and Machine Learning by Christophter Bishop
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 
