@@ -35,10 +35,10 @@
 
 ###Additional Resources
 * [Excellent online resource that you can work through, python code and data available](http://guidetodatamining.com/guide/ch2/DataMining-ch2.pdf)
-* http://www.slideshare.net/erikbern/collaborative-filtering-at-spotify-16182818
-* https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml
-* http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/
-* http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf
+* [Collaborative filtering at Spotify](http://www.slideshare.net/erikbern/collaborative-filtering-at-spotify-16182818)
+* [About the Netflix prize](https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml)
+* [Alternating Least Squares Algorithm](http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/)
+* [Matrix Factorization](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf)
 
 #####Blogs
 * [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
@@ -51,4 +51,4 @@
 #####Meetups
 
 #####Courses
-[Andrew Ng's coursera course - week 9 on predicting movie ratings & collaborative filtering and Low Rank Matrix Factorization](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
+[Andrew Ng's coursera course - week 9 on predicting movie ratings & collaborative filtering and Low Rank Matrix Factorization](https://www.coursera.org/learn/machine-learning/home/info). The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. 
