@@ -1,5 +1,5 @@
-#Lesson 14 A/B Testing
-###July 20th 2015
+#Lesson 16 Recommendation Systems
+###July 27th 2015
 
 ###Objectives for this class:
  * To define the Bayesian approach to A/B Testing
