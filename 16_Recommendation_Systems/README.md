@@ -2,21 +2,21 @@
 ###July 27th 2015
 
 ###Objectives for this class:
- * To define the Bayesian approach to A/B Testing
- * To identify and explore the Beta Distribution
- * To define and give an example of iterative Bayes
- * To list the competing priorities for editors monitoring 2 instant headlines
- * To define the Anscombe boundary, and determine that this is one solution to decision making that balances priorities
+ * To define the what is meant by a recommendation system
+ * To identify and define the 2 types of recommendation systes - content & colloborative
+ * To provide an example of content based recommendation
+ * To identify and define the 2 types of colloborative filtering - nearest neighbors & matrix factorization
+ * To provide examples of both kinds of collaborative filtering
+ * To identify the pros and cons of the various types of recommendation systems
  
 ###Class Agenda
  - Class Open
   * Check in 
   * Review objectives
- - Small group exercise - class quiz on Bayes Formula
- - A/B Testing - Core concepts - Slides - Mark
- - Beta Distribution - iPython notebook - Mark & Class
- - Iterative Bayes - iPython notebook - Mark & Class
- - LAB: Amazon Resellers - Coding exercise - Class
+ - Recommendation Systems - Core concepts - Slides - Mark
+ -  - iPython notebook - Mark & Class
+ -  - iPython notebook - Mark & Class
+ - LAB:  - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
@@ -34,23 +34,23 @@
 
 
 ###Additional Resources
-* [Bayesian Headline Testing Post No. 1](http://jeroenjanssens.com/2013/08/18/bayesian-headline-testing-at-visual-revenue.html)
-* [Bayesian Headline Testing Post No. 2](http://developers.lyst.com/data/2014/05/10/bayesian-ab-testing/)
-* [Bayesian Headline Testing Post No. 3](http://www.bayesianwitch.com/blog/2014/bayesian_ab_test.html)
-* [A nice presentation about Naive Bayes](http://cis.poly.edu/~mleung/FRE7851/f07/naiveBayesianClassifier.pdf)
-* [A fun post about Bayes](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
-* [Naive Bayes Math](http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf)
-* [Naive Bayes Test Classification](http://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html)
-* Beaware of the linkedin Data Science group - plenty of blogs, discussion and job postings
-* [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
-* [Andrew Ng's coursera course](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
+* http://cis.poly.edu/~mleung/FRE7851/f07/naiveBayesianClassifier.pdf
+* http://guidetodatamining.com/guide/ch2/DataMining-ch2.pdf
+* http://www.slideshare.net/erikbern/collaborative-filtering-at-spotify-16182818
+* https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml
+* http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/
+* http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf
 
-* Books
+#####Blogs
+* [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
+
+#####Books
 
 * Pattern Recognition and Machine Learning by Christophter Bishop
- 
+
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 
-* Meetups
+#####Meetups
 
-* Courses
+#####Courses
+[Andrew Ng's coursera course - week 9 on predicting movie ratings & collaborative filtering and Low Rank Matrix Factorization](https://www.coursera.org/learn/machine-learning/home/info), which is a great machine learning course. The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. The course is a little mathematical at times, but overall he presents great videos about gradient descent, and linear models.
