@@ -14,9 +14,9 @@
   * Check in 
   * Review objectives
  - Recommendation Systems - Core concepts - Slides - Mark
- -  - iPython notebook - Mark & Class
- -  - iPython notebook - Mark & Class
- - LAB:  - Coding exercise - Class
+ - Content-based Recommendation - iPython notebook - Mark & Class
+ - Collaborative-based Recommendation - Matrix Factorization - iPython notebook - Mark & Class
+ - LAB: Collaborative-based Recommendation - Neighborhood - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
