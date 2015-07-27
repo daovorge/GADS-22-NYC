@@ -34,6 +34,7 @@
 
 
 ###Additional Resources
+*[Building a recommendation system in Python](http://nbviewer.ipython.org/gist/glamp/20a18d52c539b87de2af)
 * [Excellent online resource that you can work through, python code and data available](http://guidetodatamining.com/guide/ch2/DataMining-ch2.pdf)
 * [Collaborative filtering at Spotify](http://www.slideshare.net/erikbern/collaborative-filtering-at-spotify-16182818)
 * [About the Netflix prize](https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml)
