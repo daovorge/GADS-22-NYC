@@ -47,11 +47,11 @@ Class Location: GA West 10E. 21st St, 4th Floor
 |                | David Epstein, Senior Data Scientist, Socure     |                |              |
 |                | Eric Xu, Data Scientist, Outbrain                |                |              |
 |                | Rob Doherty, Data Scientist Team Lead, Outbrain  |                |              |
-| 18. M Aug 3    | Classification 1 - KNN, SVM                      |                |              |
+| 18. M Aug 3    | Classification 1 - KNN, SVM, ROC                 |                |              |
 | 19. W Aug 5    | Classification 2 - Ensemble, Trees               |                |              |
 | 20. M Aug 10   | Non-SQL dBs, Hadoop, Spark                       |                |              |
-| 21. W Aug 12   | Final Review                                     |                |              |
-| 22. M Aug 17   | Project Presentation Workshop                    |                |              |
+| 21. W Aug 12   | Project Workshop & Time Series Modelling         |                |              |
+| 22. M Aug 17   | Project Workshop & Neural Networks|              |                |
 | 23. W Aug 19   | Project Presentations                            |                |              |
 
 #Getting Help
