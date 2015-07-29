@@ -2,7 +2,7 @@
 ###July 27th 2015
 
 ###Objectives for this class:
- * 
+ * To listen, learn and ask questions of 3 working Data Scientists
  
 ###Class Agenda
  - Class Open
