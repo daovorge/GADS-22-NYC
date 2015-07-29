@@ -1,22 +1,22 @@
-#Lesson 16 Recommendation Systems
-###July 27th 2015
+#Lesson 18 KNN, SVM and ROC
+###August 3rd 2015
 
 ###Objectives for this class:
- * To define the what is meant by a recommendation system
- * To identify and define the 2 types of recommendation systes - content & colloborative
- * To provide an example of content based recommendation
- * To identify and define the 2 types of colloborative filtering - nearest neighbors & matrix factorization
- * To provide examples of both kinds of collaborative filtering
- * To identify the pros and cons of the various types of recommendation systems
+ * To define 
+ * To identify and define 
+ * To provide an example 
+ * To identify and define 
+ * To provide examples 
+ * To identify the pros and cons 
  
 ###Class Agenda
  - Class Open
   * Check in 
   * Review objectives
- - Recommendation Systems - Core concepts - Slides - Mark
- - Content-based Recommendation - iPython notebook - Mark & Class
- - Collaborative-based Recommendation - Matrix Factorization - iPython notebook - Mark & Class
- - LAB: Collaborative-based Recommendation - Neighborhood - Coding exercise - Class
+ -  - Core concepts - Slides - Mark
+ -  - iPython notebook - Mark & Class
+ -  - Matrix Factorization - iPython notebook - Mark & Class
+ - LAB: - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
