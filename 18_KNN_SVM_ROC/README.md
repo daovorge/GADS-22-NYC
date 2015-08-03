@@ -2,8 +2,8 @@
 ###August 3rd 2015
 
 ###Objectives for this class:
- * To define 
- * To identify and define 
+ * To define the K-Nearest Neighbors algorithm
+ * To define Support Vector Machines, and elucidate the meaning of maxiumum margin classification
  * To provide an example 
  * To identify and define 
  * To provide examples 
