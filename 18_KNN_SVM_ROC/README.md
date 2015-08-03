@@ -4,19 +4,21 @@
 ###Objectives for this class:
  * To define the K-Nearest Neighbors algorithm
  * To define Support Vector Machines, and elucidate the meaning of maxiumum margin classification
- * To provide an example 
- * To identify and define 
- * To provide examples 
- * To identify the pros and cons 
+ * To define and illustrate the concept of kernels 
+ * To identify problems with classifying skewed data 
+ * To define and discuss Precision, Recall, and F1-score
+ * To define and discus Receiver Operating Characteristic and Area Under the Curve
  
 ###Class Agenda
  - Class Open
   * Check in 
   * Review objectives
  -  - Core concepts - Slides - Mark
- -  - iPython notebook - Mark & Class
- -  - Matrix Factorization - iPython notebook - Mark & Class
- - LAB: - Coding exercise - Class
+ -  - KNN - Demo iPython notebook - Mark & Class
+ -  - KNN - Demo iPython notebook - Mark & Class
+ -  - ROC - Demo iPython notebook - Mark & Class
+ - LAB1: Baseball Dataset - SVM - SVR - Type-in exercise - Class
+ - LAB2: Engine Misfiring Dataset - SVM - SVC - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
@@ -34,23 +36,18 @@
 
 
 ###Additional Resources
-* [Building a recommendation system in Python](http://nbviewer.ipython.org/gist/glamp/20a18d52c539b87de2af)
-* [Excellent online resource that you can work through, python code and data available](http://guidetodatamining.com/guide/ch2/DataMining-ch2.pdf)
-* [Collaborative filtering at Spotify](http://www.slideshare.net/erikbern/collaborative-filtering-at-spotify-16182818)
-* [About the Netflix prize](https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml)
-* [Alternating Least Squares Algorithm](http://bugra.github.io/work/notes/2014-04-19/alternating-least-squares-method-for-collaborative-filtering/)
-* [Matrix Factorization](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf)
+* Advanced description of another classifier: [LDA](http://sebastianraschka.com/Articles/2014_python_lda.html)
+* All you ever wanted to know about the [ROC](https://cours.etsmtl.ca/sys828/REFS/A1/Fawcett_PRL2006.pdf)
 
 #####Blogs
 * [Data Science Central](http://www.datasciencecentral.com/) For discussions, conferences, jobs, etc
 
 #####Books
-
-* Doing Data Science by Cathy O'Neil & Rachel Schutt. Has a chapter of recommendation systems.
-* Pattern Recognition and Machine Learning by Christophter Bishop
+* Python Data Science Essentials by Alberto Boschetti & Luca Massaron
+* Pattern Recognition and Machine Learning by Christophter Bishop - end of chapter 2, and chapter 7
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 
 #####Meetups
 
 #####Courses
-[Andrew Ng's coursera course - week 9 on predicting movie ratings & collaborative filtering and Low Rank Matrix Factorization](https://www.coursera.org/learn/machine-learning/home/info). The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. 
+[Andrew Ng's coursera course - week 7 on Large Margin Classification, Kernels, and SVMs in Practice](https://www.coursera.org/learn/machine-learning/home/info). The notation I have used matches his. His course used Octave (like matlab), so unless you are dead keen to learn this, you can ignore the programming exercises. 
