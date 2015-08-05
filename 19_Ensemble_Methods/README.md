@@ -26,7 +26,7 @@
  
 
 ###Additional Resources
- *[Sklearn user documentation on grid searching](http://scikit-learn.org/stable/modules/grid_search.html#grid-search)
+ * [Sklearn user documentation on grid searching](http://scikit-learn.org/stable/modules/grid_search.html#grid-search)
 
 #####Books
 
