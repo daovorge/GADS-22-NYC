@@ -18,7 +18,7 @@
  - - Core concepts - Slides - Mark
  - - iPython demo notebook - Decision Trees - Mark & Class
  - - iPython demo notebook - Ensemble Methods - Mark & Class
- - LAB: - Coding exercise - Class
+ - LAB: MNIST and Grid Search - iPython notebook - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
@@ -26,6 +26,8 @@
  
 
 ###Additional Resources
+ * [Sklearn user documentation on grid searching](http://scikit-learn.org/stable/modules/grid_search.html#grid-search)
+ * Mastering Machine Learning with scikit-learn by Gavin Hackeling, Chapter 4
 
 #####Books
 
@@ -34,5 +36,7 @@
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
 
 #####Meetups
+
+ * Best Practices for PySpark, with Juliet Hougland of Cloudera. NYC Data Science. Sept 29
 
 #####Courses
