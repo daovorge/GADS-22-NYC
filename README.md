@@ -49,7 +49,7 @@ Class Location: GA West 10E. 21st St, 4th Floor
 |                | Rob Doherty, Data Scientist Team Lead, Outbrain  |                |              |
 | 18. M Aug 3    | KNN, SVM, ROC                                    |                |              |
 | 19. W Aug 5    | Ensemble Methods                                 |                |              |
-| 20. M Aug 10   | Non-SQL dBs, Hadoop, Spark                       |                |              |
+| 20. M Aug 10   | Non-SQL dBs, Hadoop, Spark - Data Engineering    |                |              |
 | 21. W Aug 12   | Project Workshop & Time Series Modelling         |                |              |
 | 22. M Aug 17   | Project Workshop & Neural Networks               |                |
 | 23. W Aug 19   | Project Presentations                            |                |              |
