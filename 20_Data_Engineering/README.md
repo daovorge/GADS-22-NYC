@@ -2,23 +2,24 @@
 ###August 10th 2015
 
 ###Objectives for this class:
- * To define the
- * To identify the 
- * To define 
- * To define 
- * To define and illustrate 
- * To explore in detail
- * To illustrate 
- * To define
+ * To define Big Data and list it's Characteristics
+ * To introduce the motivation for, and definition of MapReduce
+ * To introduce Hadoop, Pig and Hive
+ * To identify the fundamental limitations of MapReduce and consider an alternative
+ * To define and provide examples of introduce Spark
+ * To quickly survey database types and technologies
+ * To identify Big Data functionality within Python
  
 ###Class Agenda
  - Class Open
   * Check in 
   * Review objectives
- - - Core concepts - Slides - Mark
- - - iPython demo notebook -  - Mark & Class
- - - iPython demo notebook -  - Mark & Class
- - LAB:  - iPython notebook - Coding exercise - Class
+ - - Core concepts - Hadoop Slides - Mark
+ - - Horton Works as a Pig and Hive resoure - Class
+ - - Core concepts - Spark
+ - - iPython demo notebook - Spark - Mark & Class
+ - - Core concepts - Databases
+ - LAB:  - Big Data Python functionality - iPython notebook - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
