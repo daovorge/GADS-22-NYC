@@ -1,24 +1,24 @@
-#Lesson 19 Ensemble Methods
-###August 5th 2015
+#Lesson 21 Time Series Modeling
+###August 12th 2015
 
 ###Objectives for this class:
- * To define the concept of Ensemble Methods
- * To identify the 2 categories of Ensemble Methods
- * To define and illustrate Bagging
- * To define Pasting
- * To define and illustrate Subspaces and Patches
- * To explore in detail the Decision Tree, including a sidebar on Entropy
- * To illustrate the use of RandomForests and ExtraTrees
- * To define and illustrate Boosting
+ * To define the concept 
+ * To identify 
+ * To define 
+ * To define 
+ * To define and illustrate 
+ * To explore in detail t
+ * To illustrate the 
+ * To define and 
  
 ###Class Agenda
  - Class Open
   * Check in 
   * Review objectives
  - - Core concepts - Slides - Mark
- - - iPython demo notebook - Decision Trees - Mark & Class
- - - iPython demo notebook - Ensemble Methods - Mark & Class
- - LAB: MNIST and Grid Search - iPython notebook - Coding exercise - Class
+ - - iPython demo notebook -  - Mark & Class
+ - - iPython demo notebook - - Mark & Class
+ - LAB: MNIST and  - Coding exercise - Class
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
