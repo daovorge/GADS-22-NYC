@@ -27,11 +27,19 @@
  
 
 ###Additional Resources
- * [Sklearn user documentation on grid searching](http://scikit-learn.org/stable/modules/grid_search.html#grid-search)
- * Mastering Machine Learning with scikit-learn by Gavin Hackeling, Chapter 4
+ * [Hadoop 101](http://www.plottingsuccess.com/hadoop-101-important-terms-explained-0314/)
+ * [Pig vs Hive](https://developer.yahoo.com/blogs/hadoop/comparing-pig-latin-sql-constructing-data-processing-pipelines-444.html)
+ * [More Pig vs Hive](http://www.hadoopwizard.com/when-to-use-pig-latin-versus-hive-sql/)
+ * [Horton Works](http://hortonworks.com/?utm_source=google&utm_medium=cpc&utm_campaign=Hortonworks_-_Brand_-_Header&gclid=COKe4pXFl8cCFUeRHwodPPAIgA)
+ * [Getting Started with Pyspark](http://www.mccarroll.net/blog/pyspark/)
+ * [Logistic Regression with Spark and MLlib](http://optunity.readthedocs.org/en/latest/examples/python/spark/logistic.html)
+ * [Short video on Columnar Databases](https://www.youtube.com/watch?v=8KGVFB3kVHQ)
+ * [A Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+ * [Getting Started with Spark in Python](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 
 #####Books
 
+* Advanced Analytics with Spark by Sandy Ryza, Uri Laserson, Sean Owen, and Josh Wills
 * Doing Data Science by Cathy O'Neil & Rachel Schutt. Has a chapter of recommendation systems.
 * Pattern Recognition and Machine Learning by Christophter Bishop
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
