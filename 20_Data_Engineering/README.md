@@ -28,7 +28,8 @@
 
 ###Additional Resources
  * [Hadoop 101](http://www.plottingsuccess.com/hadoop-101-important-terms-explained-0314/)
-https://developer.yahoo.com/blogs/hadoop/comparing-pig-latin-sql-constructing-data-processing-pipelines-444.html
+ * [Pig vs Hive](https://developer.yahoo.com/blogs/hadoop/comparing-pig-latin-sql-constructing-data-processing-pipelines-444.html)
+ * 
 http://www.hadoopwizard.com/when-to-use-pig-latin-versus-hive-sql/
 http://hortonworks.com/?utm_source=google&utm_medium=cpc&utm_campaign=Hortonworks_-_Brand_-_Header&gclid=COKe4pXFl8cCFUeRHwodPPAIgA
 http://www.mccarroll.net/blog/pyspark/
