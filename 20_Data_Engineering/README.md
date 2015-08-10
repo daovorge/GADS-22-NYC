@@ -30,10 +30,9 @@
  * [Hadoop 101](http://www.plottingsuccess.com/hadoop-101-important-terms-explained-0314/)
  * [Pig vs Hive](https://developer.yahoo.com/blogs/hadoop/comparing-pig-latin-sql-constructing-data-processing-pipelines-444.html)
  * [Horton Works](http://www.hadoopwizard.com/when-to-use-pig-latin-versus-hive-sql/)
+ * [Getting Started with Pyspark](http://hortonworks.com/?utm_source=google&utm_medium=cpc&utm_campaign=Hortonworks_-_Brand_-_Header&gclid=COKe4pXFl8cCFUeRHwodPPAIgA)
  * 
  
-
-http://hortonworks.com/?utm_source=google&utm_medium=cpc&utm_campaign=Hortonworks_-_Brand_-_Header&gclid=COKe4pXFl8cCFUeRHwodPPAIgA
 http://www.mccarroll.net/blog/pyspark/
 http://optunity.readthedocs.org/en/latest/examples/python/spark/logistic.html
 https://www.youtube.com/watch?v=8KGVFB3kVHQ
