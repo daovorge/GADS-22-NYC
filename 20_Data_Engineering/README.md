@@ -34,11 +34,12 @@
  * [Getting Started with Pyspark](http://www.mccarroll.net/blog/pyspark/)
  * [Logistic Regression with Spark and MLlib](http://optunity.readthedocs.org/en/latest/examples/python/spark/logistic.html)
  * [Short video on Columnar Databases](https://www.youtube.com/watch?v=8KGVFB3kVHQ)
-https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
-https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python
+ * [A Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+ * [Getting Started with Spark in Python](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 
 #####Books
 
+* Advanced Analytics with Spark by Sandy Ryza, Uri Laserson, Sean Owen, and Josh Wills
 * Doing Data Science by Cathy O'Neil & Rachel Schutt. Has a chapter of recommendation systems.
 * Pattern Recognition and Machine Learning by Christophter Bishop
 * A good statistics book: Mathematical Statistics and Data Analysis by John A. Rice
