@@ -19,6 +19,7 @@
  - - iPython demo notebook - Time Series Basics - Mark & Class
  - - iPython demo notebook - Aligning Time Based Variables - Mark & Class
  - - iPython demo notebook - Time Series Modeling - Mark & Class
+ - - iPython demo notebook - EEG Signal Processing Introduction - Mark & Class
  - LAB: No Lab
  - Small Group Exercise - Project Update
  - Q&A and Project Workshop - Class with Mark, Susan and Chris
