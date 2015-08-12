@@ -32,7 +32,7 @@
  * [Three Hour Time Seres in Pandas Video by Wes McKinney](https://www.youtube.com/watch?v=0unf-C-pBYE)
  * [Time Series with Pandas given at at pycon](http://nbviewer.ipython.org/github/changhiskhan/talks/blob/master/pydata2012/pandas_timeseries.ipynb)
  * [Pandas Time Series Docs](http://pandas.pydata.org/pandas-docs/stable/timeseries.html#time-series-date-functionality)
- * [PyData FinancialAnalysis](http://www.hilpisch.com/YH_PyData_Eurex_Tutorial.html#/8/1)
+ * [PyData FinancialAnalysis](http://www.hilpisch.com/YH_PyData_Eurex_Tutorial.html#)
  * [Twiecki's Financial Analysis Tutorial - GoogleTrends](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/tree/master/)
  * [StatsModels TSA Documentation](http://statsmodels.sourceforge.net/devel/tsa.html)
  * [Python for Data Analysis Pages 289 to 327 deal with Time Series](http://shop.oreilly.com/product/0636920023784.do) 
