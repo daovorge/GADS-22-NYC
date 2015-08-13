@@ -1,28 +1,25 @@
-#Lesson 21 Time Series Modeling
-###August 12th 2015
+#Lesson 22 Neural Networks
+###August 17th 2015
 
 ###Objectives for this class:
- * To define what a time series is
- * To illustrate the origins of time series data 
- * To define & investigate sampling and the sampling theorem
- * To define time domain vs frequency domain
- * To define and illustrate some analysis functions in the time domain
- * To define and illustrate some analysis functions in the frequency domain
+ * To define 
+ * To illustrate  
+ * To define & investigate 
+ * To define 
+ * To define and illustrate
+ * To define and illustrate 
  
 ###Class Agenda
  - Class Open
   * Check in 
-  * Single Project Presentation
+  * Single Project Presentation - Class with Mark, Susan and Chris
+  * Project Workshop Part 2
   * Review objectives
- - - Core concepts - Slides - Time Series Modeling - Mark
- - - iPython demo notebook - Introduction to Pandas Date and Time Tools - Mark & Class
- - - iPython demo notebook - Time Series Basics - Mark & Class
- - - iPython demo notebook - Aligning Time Based Variables - Mark & Class
- - - iPython demo notebook - Time Series Modeling - Mark & Class
- - - iPython demo notebook - EEG Signal Processing Introduction - Mark & Class
+ - - Core concepts - Slides - Neural Networks - Mark
+ - - iPython demo notebook -  - Mark & Class
+ - - iPython demo notebook -  - Mark & Class
+ - - iPython demo notebook -  - Mark & Class
  - LAB: No Lab
- - Small Group Exercise - Project Update
- - Q&A and Project Workshop - Class with Mark, Susan and Chris
  - Class Close
   * Check in
   * Class to pause around 9.15pm for the Exit ticket
