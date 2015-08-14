@@ -28,6 +28,7 @@
 
 ###Additional Resources
  * [Andrew Ng's coursera course - weeks 4 and 5](https://www.coursera.org/learn/machine-learning/home/info)
+ * [Geoffrey Hintons' coursera course - Neural Networks for Machine Learning])(https://www.coursera.org/course/neuralnets)
 
 #####Books
 
