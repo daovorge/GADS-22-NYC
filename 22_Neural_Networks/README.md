@@ -1,5 +1,5 @@
 #Lesson 22 Neural Networks
-###August 19th 2015
+###August 17th 2015
 
 ###Objectives for this class:
  * To define and illustrate a principal neural network architecture - the MLP or mulit-layered perceptron
