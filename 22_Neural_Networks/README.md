@@ -2,23 +2,21 @@
 ###August 17th 2015
 
 ###Objectives for this class:
- * To define 
- * To illustrate  
- * To define & investigate 
- * To define 
- * To define and illustrate
- * To define and illustrate 
+ * To define and illustrate a principal neural network architecture - the MLP or mulit-layered perceptron
+ * To illustrate how a neural network can construct a non-linear decision boundary using the XOR problem
+ * To define & investigate the backpropagation algorithm
+ * To list other types of neural networks
  
 ###Class Agenda
  - Class Open
   * Check in 
-  * Single Project Presentation - Class with Mark, Susan and Chris
-  * Project Workshop Part 2
+  * Single Project Presentation 
+  * Project Workshop Part 2 - Class with Mark, Susan and Chris
   * Review objectives
  - - Core concepts - Slides - Neural Networks - Mark
+ - - iPython demo notebook - MLP Implementation - Mark & Class
  - - iPython demo notebook -  - Mark & Class
- - - iPython demo notebook -  - Mark & Class
- - - iPython demo notebook -  - Mark & Class
+ - - Course review - Slides - Mark
  - LAB: No Lab
  - Class Close
   * Check in
