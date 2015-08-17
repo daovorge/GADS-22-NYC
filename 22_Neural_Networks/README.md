@@ -25,6 +25,9 @@
  
 
 ###Additional Resources
+ * [Torch](http://torch.ch/)
+ * [Caffe](http://caffe.berkeleyvision.org/)
+ * [Theano](http://deeplearning.net/software/theano/)
  * [Andrew Ng's coursera course - weeks 4 and 5](https://www.coursera.org/learn/machine-learning/home/info)
  * [Geoffrey Hintons' coursera course - Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 
