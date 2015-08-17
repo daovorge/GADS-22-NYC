@@ -15,7 +15,6 @@
   * Review objectives
  - - Core concepts - Slides - Neural Networks - Mark
  - - iPython demo notebook - MLP Implementation - Mark & Class
- - - iPython demo notebook -  - Mark & Class
  - - Course review - Slides - Mark
  - LAB: No Lab
  - Class Close
