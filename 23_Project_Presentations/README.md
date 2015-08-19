@@ -5,7 +5,8 @@
  * Each student will give a 10 minute presentation of their course project, in order to showcase their work and the knowleddge they have gained over the course
  
 ###Class Agenda
- - The running order for the talks is as follows (the order was generated randomly):
+##### - The running order for the talks is as follows (the order was generated randomly):
+  
  * David Markel
  * Can Gulec
  * Sharon Tsao
