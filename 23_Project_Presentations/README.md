@@ -16,16 +16,14 @@
 |David Markel      |    18:50         |
 |Can Gulec         |    19:02         |
 |Sharon Tsao       |    19:14         |
-|Vivek Gupta       |    19:26         |
-|Pranav Pandit     |    19:38         |
-|Andrew Menendez   |    19:50         |
-|Paul dobrowsky    |    20:02         |
-|Pat Needham       |    20:14         |
-|Brian  Lam        |    20:26         |
-|Ankit Patel       |    20:38         |
-|Mary Taft-McPhee  |    20:50         |
-|Thomas Hunter     |    21:02         |
+|Andrew Menendez   |    19:26         |
+|Paul dobrowsky    |    19:38         |
+|Pat Needham       |    19:50         |
+|Brian  Lam        |    20:02         |
+|Ankit Patel       |    20:14         |
+|Mary Taft-McPhee  |    20:26         |
+|Thomas Hunter     |    20:38         |
 
-end 21 : 14
+end 20:50
  
 ###GA Sponsored Happy Hour to follow to celebrate the completion of the course. One Star Bar 147 W 24th.
