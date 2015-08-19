@@ -25,7 +25,7 @@
 |Ankit Patel       |    20:38         |
 |Mary Taft-McPhee  |    20:50         |
 |Thomas Hunter     |    21:02         |
-|Kaushal Shah      |    21:14         |
-end 21 : 26
+
+end 21 : 14
  
 ###GA Sponsored Happy Hour to follow to celebrate the completion of the course. One Star Bar 147 W 24th.
