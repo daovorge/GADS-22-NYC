@@ -2,7 +2,7 @@
 ###August 19th 2015
 
 ###Objectives for this class:
- * Each student will give a 9 minute presentation of their course project, in order to showcase their work and the knowleddge they have gained over the course
+ * Each student will give a 9 minute presentation of their course project, in order to showcase their work and knowledge
  * Following the presentation there will be 2 minutes for questions
  * A 1 minute handover between speakers is allowed for
  
