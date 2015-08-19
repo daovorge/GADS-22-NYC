@@ -1,6 +1,8 @@
 #Lesson 23 Project Presentations
 ###August 19th 2015
 
+##### - Food is being provided for this class, plus happy hour to follow - see below
+
 ###Objectives for this class:
  * Each student will give a 9 minute presentation of their course project, in order to showcase their work and knowledge
  * Following the presentation there will be 2 minutes for questions
@@ -26,3 +28,4 @@
 |Kaushal Shah      |    21:14         |
 end 21 : 26
  
+ ###GA Sponsored Happy Hour to follow to celebrate the completion of the course. One Start Bar 147 W 24th.
