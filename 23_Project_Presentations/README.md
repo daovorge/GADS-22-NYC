@@ -7,17 +7,31 @@
 ###Class Agenda
 ##### - The running order for the talks is as follows (the order was generated randomly):
   
- * David Markel
- * Can Gulec
- * Sharon Tsao
- * Vivek Gupta
- * Pranav Pandit
- * Andrew Menendez
- * Paul dobrowsky
- * Pat Needham
- * Brian  Lam
- * Ankit Patel
- * Mary Taft-McPhee
- * Thomas Hunter
- * Kaushal Shah
+David Markel                             18:40
+
+Can Gulec                                18:52
+
+Sharon Tsao                              19:04
+
+Vivek Gupta                              19:16
+
+Pranav Pandit                            19:28
+
+Andrew Menendez                          19:40
+
+Paul dobrowsky                           19:52
+
+Pat Needham                              20:04
+
+Brian  Lam                               20:16
+
+Ankit Patel                              20:28
+
+Mary Taft-McPhee                         20:40
+
+Thomas Hunter                            20:52
+
+Kaushal Shah                             21:04
+
+end 21 : 16
  
