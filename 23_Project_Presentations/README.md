@@ -28,4 +28,4 @@
 |Kaushal Shah      |    21:14         |
 end 21 : 26
  
-###GA Sponsored Happy Hour to follow to celebrate the completion of the course. One Start Bar 147 W 24th.
+###GA Sponsored Happy Hour to follow to celebrate the completion of the course. One Star Bar 147 W 24th.
