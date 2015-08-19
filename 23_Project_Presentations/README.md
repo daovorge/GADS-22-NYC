@@ -11,18 +11,18 @@
 
 | Speaker          | Time             | 
 | :----------------|:-----------------|
-|David Markel      |    18:40         |
-|Can Gulec         |    18:52         |
-|Sharon Tsao       |    19:04         |
-|Vivek Gupta       |    19:16         |
-|Pranav Pandit     |    19:28         |
-|Andrew Menendez   |    19:40         |
-|Paul dobrowsky    |    19:52         |
-|Pat Needham       |    20:04         |
-|Brian  Lam        |    20:16         |
-|Ankit Patel       |    20:28         |
-|Mary Taft-McPhee  |    20:40         |
-|Thomas Hunter     |    20:52         |
-|Kaushal Shah      |    21:04         |
-end 21 : 16
+|David Markel      |    18:50         |
+|Can Gulec         |    19:02         |
+|Sharon Tsao       |    19:14         |
+|Vivek Gupta       |    19:26         |
+|Pranav Pandit     |    19:38         |
+|Andrew Menendez   |    19:50         |
+|Paul dobrowsky    |    20:02         |
+|Pat Needham       |    20:14         |
+|Brian  Lam        |    20:26         |
+|Ankit Patel       |    20:38         |
+|Mary Taft-McPhee  |    20:50         |
+|Thomas Hunter     |    21:02         |
+|Kaushal Shah      |    21:14         |
+end 21 : 26
  
